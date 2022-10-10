@@ -1,0 +1,113 @@
+
+Anjali1@ANJALI-DEVOPS MINGW64 ~/Desktop/linux
+$ history
+    1  git clone https://github.com/Anjali7870/dailytask.git
+    2  git clone https://github.com/Anjali7870/dailytask.git
+    3  git status
+    4  git add htmlptc/
+    5  git status
+    6  git commit -m "access"
+    7  git push origin main
+    8  git status
+    9  git add new
+   10  git status
+   11  mkdir youtube
+   12  mkdir youtube
+   13  pwd
+   14  mkdir kitkat
+   15  rmdir anjali
+   16  is
+   17  IS
+   18  |s
+   19  cd certs
+   20  history
+   21  pwd
+   22  mkdir silk
+   23  sudo
+   24  ls
+   25  cd kitkat
+   26  cd..
+   27  cd.
+   28  touch nuts
+   29  touch takatak chips
+   30  cat > chips
+   31  cp nuts roased
+   32  head silk
+   33  head kitkat
+   34  head kitkat
+   35  head chips.txt
+   36  ls kitkat
+   37  ls silk
+   38  history
+   39  history
+   40  mkdir new command
+   41  mkdir new
+   42  pwd
+   43  mkdir anju
+   44  cal
+   45  pwd
+   46  mkdir youtube
+   47  mk dir you tube
+   48  mkdir hire
+   49  mkdir lenovo
+   50  mkdir batman spiderman superman
+   51  mkdir -p
+   52  ls
+   53  ls-a
+   54  ls -a
+   55  ls -l
+   56  ls -lhs
+   57  ls -d */
+   58  ls -n
+   59  ls - R
+   60  ls -R
+   61  ls --version
+   62  cal
+   63  cd..
+   64  cd.
+   65  al july 1999
+   66  rmdir batman
+   67  mkdir chatpat
+   68  cd chatpat
+   69  file anjali
+   70  touch amie
+   71  cat amie.txt
+   72  cat> amie.txt
+   73  echo 'this is a test'> data.txt
+   74  cat> anjali.txt
+   75  joe -help delta.txt
+   76  echo "hello there"
+   77  man anju
+   78  top
+   79  cd..
+   80  cd desktop
+   81  pwd
+   82  rm anjali
+   83  uname - a
+   84  git init
+   85  git clone
+   86  git status
+   87  git add new
+   88  git status
+   89  git add new
+   90  git add anjali
+   91  git add
+   92  git cloneclone https://github.com/Anjali7870/dailytask-.git
+   93  git init
+   94  git add new
+   95  git add anjali
+   96  git add linux c
+   97  add . htmptc anjali
+   98  cd desktop
+   99  git clone https://github.com/Anjali7870/dailytask.git
+  100  git clone
+  101  git clone https://github.com/Anjali7870/dailytask-.git
+  102  git status
+  103  git add anjali
+  104  git status
+  105  cd dailytask-
+  106  git status
+  107  git add anjali
+  108  git commit -m"access"
+  109  history
+  110  history
